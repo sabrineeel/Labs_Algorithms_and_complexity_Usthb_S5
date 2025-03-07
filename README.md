@@ -3,7 +3,7 @@
 ### 📌Ce repository contient les travaux pratiques du module Algorithms and Complexity du 5ème semestre à l'USTHB 
 le langage du TP: C
 
-## 👩‍💻 Auteurs
+### 👩‍💻 Auteurs
 Nait cherif Sabrinel
 
 2024/2025
